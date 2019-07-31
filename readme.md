@@ -49,7 +49,9 @@ Run angular server:
 npm start
 ```
 
-To run Unit test using PhpUnit, run this command inside root folder:
+## - Unit Test
+
+To run Unit test using PhpUnit, run this command inside project root folder:
 ``` 
 vendor/bin/phpunit
 ```

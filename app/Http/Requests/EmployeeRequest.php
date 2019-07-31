@@ -24,12 +24,11 @@ class EmployeeRequest extends FormRequest
     public function rules()
     {
         return [
-            'nome' => 'required|max:255',
-            'last_name' => 'required',
-            'age' => 'required',
-            'salary' => 'required',
+            'name' => 'required|string|max:255',
+            'last_name' => 'required|string|max:255',
+            'age' => 'required|numeric',
+            'salary' => 'required|numeric',
             'created_at' => 'required',
-            'updated_at' => 'required'
         ];
     }
 }

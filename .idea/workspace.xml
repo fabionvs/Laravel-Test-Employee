@@ -2,51 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a2434be-1362-4442-99e3-a5d25502f32f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_07_31_170327_create_employees_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_07_31_170327_create_employees_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/angular-scalable-project-structure-qark8f.zip" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/angular-scalable-project-structure-qark8f.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/browserslist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/e2e/protractor.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/e2e/src/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/e2e/src/app.po.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/e2e/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/e2e/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/karma.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/api.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/api.service.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/api.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/api.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/app.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/employee/employee-list/employee-list.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/employee/employee-list/employee-list.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/employee/employee-list/employee-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/employee/employee-list/employee-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/employee/employee-list/employee-list.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/employee/employee-list/employee-list.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/employee/employee-list/employee-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/employee/employee-list/employee-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/employee/employee-show/employee-show.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/employee/employee-show/employee-show.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/employee/employee-show/employee-show.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/employee/employee-show/employee-show.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/employee/employee-show/employee-show.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/employee/employee-show/employee-show.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/employee/employee-show/employee-show.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/employee/employee-show/employee-show.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/employee/employee.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/employee/employee.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/app/employee/employee.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/employee/employee.model.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/assets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/assets/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/environments/environment.prod.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/polyfills.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/tsconfig.app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/tsconfig.spec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-end/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Requests/EmployeeRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Requests/EmployeeRequest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Feature/EmployeeTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/EmployeeTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/EmployeeTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/EmployeeTest.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,62 +15,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/front-end/src/app/employee/employee-show/employee-show.component.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/Feature/EmployeeTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <state relative-caret-position="1551">
+              <caret line="107" column="27" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
+              <folding>
+                <element signature="e#33#61#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/front-end/src/app/app.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/front-end/src/app/employee/employee-list/employee-list.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_31_170327_create_employees_table.php">
+        <entry file="file://$PROJECT_DIR$/tests/Unit/EmployeeTest.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-9">
-                <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-              </first_editor>
-              <second_editor />
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+              <folding>
+                <element signature="e#30#49#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/front-end/src/app/employee/employee-show/employee-show.component.ts">
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/EmployeeRequest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#48#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -137,11 +69,8 @@
         <option value="$PROJECT_DIR$/app/Employee.php" />
         <option value="$PROJECT_DIR$/routes/api.php" />
         <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
-        <option value="$PROJECT_DIR$/tests/Feature/EmployeeTest.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/EmployeeController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Requests/EmployeeRequest.php" />
         <option value="$PROJECT_DIR$/tests/TestCase.php" />
-        <option value="$PROJECT_DIR$/tests/Unit/EmployeeTest.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
         <option value="$PROJECT_DIR$/font-end/src/app/employee/employee.model.ts" />
@@ -162,6 +91,9 @@
         <option value="$PROJECT_DIR$/font-end/src/app/employee/employee-list/employee-list.component.html" />
         <option value="$PROJECT_DIR$/database/migrations/2019_07_31_170327_create_employees_table.php" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/tests/Feature/EmployeeTest.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/EmployeeRequest.php" />
+        <option value="$PROJECT_DIR$/tests/Unit/EmployeeTest.php" />
       </list>
     </option>
   </component>
@@ -183,6 +115,35 @@
             <path>
               <item name="laravel-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel-test" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel-test" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel-test" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel-test" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel-test" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,24 +193,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564591978806</updated>
-      <workItem from="1564591979979" duration="19084000" />
+      <workItem from="1564591979979" duration="20477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19084000" />
+    <option name="totallyTimeSpent" value="20477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-1" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3294979" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3294979" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -310,13 +272,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Unit/ExampleTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -324,34 +279,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Feature/EmployeeTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="e#33#61#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Employee.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Feature/ExampleTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Requests/EmployeeRequest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -389,16 +320,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/front-end/src/index.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Unit/EmployeeTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#30#49#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/font-end/node_modules/@angular/common/http/http.d.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -544,6 +465,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="411">
+            <caret line="55" column="56" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_31_170327_create_employees_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -551,13 +482,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-9">
-            <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/tests/Feature/ExampleTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Unit/ExampleTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/EmployeeRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Unit/EmployeeTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="e#30#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Feature/EmployeeTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1551">
+          <caret line="107" column="27" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
+          <folding>
+            <element signature="e#33#61#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

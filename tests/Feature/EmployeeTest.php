@@ -36,7 +36,7 @@ class EmployeeTest extends TestCase
             'name' => 'fabio',
             'last_name' => 'teste',
             "age" => 25,
-            "salary" => 2.500,
+            "salary" => 2500,
             "created_at" => '2017-03-31 09:30:20'
         );
         $response = $this->post('/api/employee', $credentials);
@@ -57,7 +57,7 @@ class EmployeeTest extends TestCase
             'name' => 'fabio',
             'last_name' => 'teste',
             "age" => 25,
-            "salary" => 2.500,
+            "salary" => 2500,
             "created_at" => '2017-03-31 09:30:20'
         );
         $response = $this->put('/api/employee/1', $credentials);
@@ -77,6 +77,48 @@ class EmployeeTest extends TestCase
         ]);
         $response = $this->delete('/api/employee/1');
         $response->assertStatus(200);
+    }
+
+    /**
+     * A basic test example.
+     *
+     * @return void
+     */
+    public function testPostEmployeeErrorTest()
+    {
+        $this->artisan('migrate:fresh', [
+            '--seed' => true,
+        ]);
+        $credentials = array(
+            'nome' => 'fabio',
+            'lassat_name' => 'teste',
+            "agsae" => 25,
+            "salary" => 2500,
+            "created_at" => '2017-03-31 09:30:20'
+        );
+        $response = $this->post('/api/employee', $credentials);
+        $response->assertStatus(302);
+    }
+
+    /**
+     * A basic test example.
+     *
+     * @return void
+     */
+    public function testPutEmployeeErrorTest()
+    {
+        $this->artisan('migrate:fresh', [
+            '--seed' => true,
+        ]);
+        $credentials = array(
+            'nome' => 'fabio',
+            'lassat_name' => 'teste',
+            "agsae" => 25,
+            "salary" => 2500,
+            "created_at" => '2017-03-31 09:30:20'
+        );
+        $response = $this->post('/api/employee', $credentials);
+        $response->assertStatus(302);
     }
 
 }

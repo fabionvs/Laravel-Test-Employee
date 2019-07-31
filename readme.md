@@ -8,7 +8,7 @@
 - NodeJs in the latest stable version.
 - PHP >7.1
 - Composer
-- Database compatible with Laravel and Eloquent.
+- Database compatible with Eloquent.
 
 ## - Installation
 
@@ -38,7 +38,7 @@ php artisan migrate
 
 ## - Installing Angular
 
-Enter folder ``` front-end ``` inside of project root and run:
+Enter ``` front-end ``` folder inside the root of the project and run:
 
 ``` 
 npm install 
@@ -48,5 +48,13 @@ Run angular server:
 ``` 
 npm start
 ```
+
+To run Unit test using PhpUnit, run this command inside root folder:
+``` 
+vendor/bin/phpunit
+```
+Obs: Remember to run PHPUNIT while artisan server is on!
+
+Now, enjoy!
 
 

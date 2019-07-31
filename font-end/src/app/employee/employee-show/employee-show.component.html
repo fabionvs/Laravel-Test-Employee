@@ -1,0 +1,9 @@
+<div class="my-3 p-3 bg-white rounded shadow-sm">
+    <h6 class="border-bottom border-gray pb-2 mb-0">Employee: {{ employee.name }} {{ employee.last_name}}</h6>
+    <ul class="list-group list-group-flush border-bottom border-gray pb-2">
+        <li class="list-group-item">Age: {{ employee.age}}</li>
+        <li class="list-group-item">Salary: {{ employee.salary}}</li>
+        <li class="list-group-item">Created At: {{ employee.created_at}}</li>
+    </ul>
+    <button class="btn btn-default btn-sm btn-block" [routerLink]="['/']">Return to List</button>
+</div>
